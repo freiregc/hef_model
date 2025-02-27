@@ -1,0 +1,13 @@
+
+{
+    "0": "needle_error",
+	"1": "color_based_error",
+	"2": "machine_error",
+	"3": "big_hole",
+	"4": "watermark",
+	"5": "corner",
+	"6": "stamp",
+	"7": "text",
+	"8": "amendment",
+	"9": "wrinkled"
+}
